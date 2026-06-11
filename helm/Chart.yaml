@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-party-reference-data-directory
+description: "BIAN Service Domain: Party Reference Data Directory (Catalog pattern, Reference Data)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - catalog
+annotations:
+  bian/business-area: "Reference Data"
+  bian/business-domain: "Reference Data"
+  bian/asset-type: "Party Reference Data"
+  bian/control-record: "Party Reference Data Directory Entry"
